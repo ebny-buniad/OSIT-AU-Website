@@ -457,6 +457,29 @@ h6{
 
 /* =====Nav Bar End====== */
 
+/* =====Slider Start===== */
+
+.carousel-caption{
+  bottom: 0 !important;
+  margin-bottom: 0px;
+  position: absolute;
+  left: 0% !important;
+  right: 0% !important;
+  padding: 40px !important;
+  /*setting alpha = 0.1*/
+  background: rgba(125, 125, 125, 0.4);
+}
+.slider_title{
+  font-weight: 800;
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+}
+.slider_content{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+/* =====Slider End ===== */
+
 
 /* =====Our Services Start===== */
 
