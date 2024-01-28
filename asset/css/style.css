@@ -42,6 +42,9 @@ h6{
   font-size: 20px !important;
 }
 
+.form-control{
+  font-size: 13px !important;
+}
 
 /* =====Nav Bar Start====== */
 
@@ -485,3 +488,8 @@ h6{
 }
 
 /* =====Our Services end===== */
+
+/* =====Are you ready to contact====== */
+.home_page_contact_form{
+  background-color: #eff4ff;
+}
