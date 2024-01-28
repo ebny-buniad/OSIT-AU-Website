@@ -491,5 +491,40 @@ h6{
 
 /* =====Are you ready to contact====== */
 .home_page_contact_form{
-  background-color: #eff4ff;
+  background-color: #fdfdfd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======Footer Start====== */
+.follow_text {
+  margin-top: 15px;
+  font-size: 13px;
+}
+
+.footer_social_icon {
+  padding-top: 1px !important;
+  font-size: 25px;
+  padding-left: 0px;
+  padding-right: 7px !important;
+}
+.footer_link {
+  text-decoration: none;
+  color: #ffffffff;
+  font-size: 13px;
+  transition: .3s;
+}
+
+.footer_link:hover {
+  color: #acacac;
 }
