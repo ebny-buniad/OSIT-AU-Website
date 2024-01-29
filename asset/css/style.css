@@ -467,9 +467,10 @@ h6{
   right: 0% !important;
   padding: 40px !important;
   /*setting alpha = 0.1*/
-  background: rgba(125, 125, 125, 0.4);
+  background: rgba(125, 125, 125, 0.7);
 }
 .slider_title{
+  font-family: 'k2d';
   font-weight: 800;
   font-size: 50px;
   color: rgb(0, 0, 0);
