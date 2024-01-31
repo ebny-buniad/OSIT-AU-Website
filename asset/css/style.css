@@ -88,17 +88,11 @@ h6{
 }
 
 
-
-
-
 .active:hover {
   color: #083f88 !important;
 }
 
 @media (min-width: 320px) {
-  #web_logo {
-    width: 180px;
-  }
 
   .side_bars {
     display: none !important;
@@ -127,9 +121,6 @@ h6{
 }
 
 @media (min-width: 400px) {
-  #web_logo {
-    width: 180px;
-  }
 
   .side_bars {
     display: none !important;
@@ -187,6 +178,12 @@ h6{
     position: absolute;
     left: 96.01%;
     top: 0px;
+  }
+}
+
+@media(max-width: 600px){
+  #web_logo{
+    width: 150px !important;
   }
 }
 
